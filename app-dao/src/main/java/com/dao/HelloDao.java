@@ -13,7 +13,8 @@ public class HelloDao {
     public void m2(){
         System.out.println("为了版本回退而增加的m2()方法");
     }
-    public void m3(){
+    public  void m3(){
+        System.out.println("Hello dev1");
     }
 
 }
