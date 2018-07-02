@@ -10,4 +10,7 @@ public class HelloDao {
     public void m1(){
         System.out.println("git append m1()");
     }
+    public void m2(){
+        System.out.println("为了版本回退而增加的m2()方法");
+    }
 }
