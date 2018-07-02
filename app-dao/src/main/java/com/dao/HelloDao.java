@@ -16,6 +16,7 @@ public class HelloDao {
     public void m3(){
         System.out.println("解决冲突");
         System.out.println("dev1");
+        System.out.println("dev2");
     }
 
 }
