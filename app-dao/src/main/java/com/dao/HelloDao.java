@@ -14,8 +14,9 @@ public class HelloDao {
         System.out.println("为了版本回退而增加的m2()方法");
     }
     public void m3(){
-        System.out.println("解决冲突");
+        System.out.println("dev2");
         System.out.println("dev1");
+
     }
 
 }
