@@ -7,4 +7,7 @@ public class HelloDao {
     public String sayHello(String name){
         return "name:"+name;
     }
+    public void m1(){
+        System.out.println("git append m1()");
+    }
 }
